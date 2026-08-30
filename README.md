@@ -1,7 +1,9 @@
 # JobTrack - Job Application Tracker
 
 A full-stack web application for managing job applications with automated interview reminders, role-based access control, and comprehensive application tracking.
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0849814c-8211-4146-913d-cf7913b42cb4" />
+
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/638065da-a549-4cd7-8027-a606b2bda355" />
 
 
